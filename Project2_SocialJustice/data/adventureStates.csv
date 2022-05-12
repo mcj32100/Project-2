@@ -1,0 +1,13 @@
+ID,StateName,ClassName,PNGFilename,CollisionFilename
+0,Splash,PNGRoom,assets/Home2.png,
+1,Instructions,InstructionsScreen,assets/Instructions2.png,
+2,Start,PNGRoom,assets/GameHome.png,
+3,TopLeft,TopLeftRoom,assets/TopLeft.png,assets/TopLeft_cl.csv
+4,Uproad,UproadRoom,assets/Uproad.png,assets/Uproad_cl.csv
+5,Topright,ToprightRoom,assets/Topright.png,assets/TopRight_cl.csv
+6,Leftroad,LeftroadRoom,assets/Leftroad.png,assets/LeftRoad_cl.csv
+7,Rightroad,RightroadRoom,assets/Rightroad.png,assets/RightRoad_cl.csv
+8,BottomLeft,BottomLeftRoom,assets/BottomLeft.png,assets/BottomLeft_cl.csv
+9,Downroad,DownroadRoom,assets/Downroad.png,assets/Downroad_cl.csv
+10,BottomRight,BottomRightRoom,assets/BottomRight.png,assets/BottomRight_cl.csv
+11,Finish,PNGRoom,assets/Finish.png,
